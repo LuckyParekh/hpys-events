@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+yt-dlp
+python-multipart
+aiofiles
+python-dotenv
